@@ -30,7 +30,6 @@ Keep both Python files in the same folder — the `.pyw` is just a launcher for 
 | `Time Tool Ω .pyw` | Console-less launcher (no command prompt) |
 | `friends.txt` | Friend name + offset in minutes, one per line (created on first add) |
 | `settings.json` | Remembered window position/size (written on close) |
-| `examples.txt` | Usage examples |
 
 ## Made with OpenCode
 
