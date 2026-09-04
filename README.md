@@ -34,7 +34,7 @@ Keep both Python files in the same folder — the `.pyw` is just a launcher for 
 
 ## Made with OpenCode
 
-This entire app was written **with [OpenCode](https://opencode.ai) **. Also: I have no clue what this script actually is. It compiles, it runs, the buttons do things — I'm not going to question it.
+This entire app was written with [OpenCode](https://opencode.ai) . Also: I have no clue what this script actually is. It compiles, it runs, the buttons do things — I'm not going to question it.
 
 **Personal opinion on AI coding:** normally it's bad — there will be errors. That only matters if you're using it for something truly important, if you're writing more code on top of it, or if real code depends on the AI-generated code. This is a personal script. None of that applies here. Use accordingly.
 
